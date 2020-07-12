@@ -1,0 +1,4 @@
+GET http://localhost:3000/home
+
+###
+GET http://localhost:3000/house?url=/cs/loupan/fang/
